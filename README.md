@@ -1,0 +1,3 @@
+Download Link: https://assignmentchef.com/product/solved-cosc450-550-hw-8
+<br>
+1. Suppose someone designed a stack abstract data type in which the function top returned an access path (or pointer) rather than returning a copy of the top element. This is not a true data abstraction. Why? Give an example that illustrates the problem.2. Describe three ways a client can reference a name from a namespace in C++.3. What are the arguments for and against the Objective-C design that method access cannot be restricted?4. What are the arguments for and against the C++ policy on inlining of methods?5. What are the advantages and disadvantages of the ability to change objects in Ruby?
